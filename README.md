@@ -1,35 +1,45 @@
-<h2 align="left">Hi 👋 I'm Michael!</h2>
-<p align="left">Software engineer with a passion for everything related to cybersecurity and cryptocurrencies</p>
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=michaeldavid1999.michaeldavid1999&"  />
-</div>
+## Hey there 👋 , I'm Carlos!
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+I am a full stack developer based in the USA 🌐 with a particular interest in blockchain, cryptocurrencies and cybersecurity.
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  <a href="https://github.com/michaeldavid1999/michaeldavid1999">
+    <img src="https://komarev.com/ghpvc/?username=michaeldavid1999" alt="page views" />
+  </a>
+  <a href="https://github.com/michaeldavid1999?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/michaeldavid1999?color=green&logo=github">
+  </a>
+</p>
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-###
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+### 🧐 More About Me:
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=michaeldavid1999&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- 🤝 &nbsp; I’m a fan of open source
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/michaeldavid1999?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/michael-benolkin/)
 
-###
+<br>
+
+### 🔨 Languages and Tools:
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="figma" height='42px'/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+<br>
+
+### 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldavid1999&show_icons=true&theme=dark&hide_title=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/carlosmiei/github-readme-stats?theme=dark&layout=compact) -->
+
+
+<a href='https://github.com/michaeldavid1999/github-stats-transparent'>
+
+</a>
+<br>
+
+### 🛠️  Projects
