@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Michael Benolkin and I'm a blockchain and full-stack developer, from the USA.</h2>
-<h3 align="left">Software engineer with a passion for everything related to cybersecurity and cryptocurrencies</h3>
+<h2 align="left">Hi 👋! My name is Michael</h2>
+<p align="left">Software engineer with a passion for everything related to cybersecurity and cryptocurrencies</p>
 
 ###
 <!--
@@ -37,14 +37,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
@@ -53,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
@@ -72,10 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
