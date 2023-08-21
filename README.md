@@ -1,4 +1,4 @@
-## Hey there 👋 , I'm Carlos!
+## Hey there 👋 , I'm Michael!
 
 I am a full stack developer based in the USA 🌐 with a particular interest in blockchain, cryptocurrencies and cybersecurity.
 
