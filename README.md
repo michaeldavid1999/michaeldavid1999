@@ -1,6 +1,6 @@
-## Hey there 👋 , I'm Michael!
+## Hey there 👋, I'm Michael!
 
-I am a full stack developer based in the USA 🌐 with a particular interest in blockchain, cryptocurrencies and cybersecurity.
+I am a full-stack developer based in the USA 🌐 with a particular interest in blockchain, cryptocurrencies and cybersecurity.
 
 <p align="left">
   <a href="https://github.com/michaeldavid1999/michaeldavid1999">
@@ -11,7 +11,6 @@ I am a full stack developer based in the USA 🌐 with a particular interest in 
   </a>
 </p>
 
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
 ### 🧐 More About Me:
 
 - 🤝 &nbsp; I’m a fan of open source
@@ -22,26 +21,10 @@ I am a full stack developer based in the USA 🌐 with a particular interest in 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,redux,nextjs,nodejs,apollo,graphql,solidity,bash,git,ipfs,linux,py,tensorflow,vercel,vscode,)](https://skillicons.dev)
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
-<br>
-<!--
-### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldavid1999&show_icons=true&theme=dark&hide_title=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/carlosmiei/github-readme-stats?theme=dark&layout=compact) -->
-
-
-<a href='https://github.com/michaeldavid1999/github-stats-transparent'>
-
-</a>
 <br>
 
 ### 🛠️  Projects
 
--->
+- https://www.hydron.finance
